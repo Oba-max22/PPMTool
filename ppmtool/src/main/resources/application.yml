@@ -1,0 +1,12 @@
+#spring:
+#  datasource:
+#    url: jdbc:postgresql://localhost:5432/ppmtooldb
+#    username: decagon
+#    password:
+#  jpa:
+#    show-sql: true # log sql queries to stdout
+#    hibernate:
+#      ddl-auto: update
+#    properties:
+#      hibernate:
+#         dialect: org.hibernate.dialect.PostgreSQLDialect
